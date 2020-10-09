@@ -1,3 +1,4 @@
-class Owner
-  # code goes here
-end
+class owner
+  attr_accessor :name, :pet
+  attr_reader :species
+  
